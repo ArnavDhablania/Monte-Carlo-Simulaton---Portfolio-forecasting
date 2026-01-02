@@ -12,7 +12,6 @@ This project uses a Monte Carlo Simulation to model potential future returns of 
 | `Observations.ipynb` | Written report discussing findings, insights, and interpretation of the simulation results |
 | `Portfolio.xlsx` | Dataset containing initial portfolio allocation/tickers/weights |
 | `Portfolio2.xlsx` | Secondary or modified portfolio dataset used for comparison/scenario testing |
-| `.ipynb_checkpoints/` | Jupyter auto-generated folder (not important to the core logic) |
 
 ---
 
