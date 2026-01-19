@@ -1,10 +1,8 @@
 # Monte Carlo Portfolio Simulation
 
-This project uses a Monte Carlo Simulation to model potential future returns of an investment portfolio under uncertainty. The simulation estimates a distribution of outcomes instead of a single prediction, helping evaluate risk, volatility, and likelihood of outperforming benchmark investments.
+This project uses a Monte Carlo Simulation to model potential future returns of an investment portfolio under uncertainty. The simulation estimates a distribution of outcomes instead of a single prediction, helping evaluate risk, volatility, and the likelihood of outperforming benchmark investments.
 
----
-
-## 📂 Project Contents
+**Project Contents**
 
 | File | Description |
 |------|-------------|
@@ -13,9 +11,7 @@ This project uses a Monte Carlo Simulation to model potential future returns of 
 | `Portfolio.xlsx` | Dataset containing initial portfolio allocation/tickers/weights |
 | `Portfolio2.xlsx` | Secondary or modified portfolio dataset used for comparison/scenario testing |
 
----
-
-## 🎯 Objectives
+**Objectives**
 
 - Simulate possible portfolio performance over a defined time horizon
 - Estimate risk and uncertainty using repeated random sampling
@@ -25,7 +21,7 @@ This project uses a Monte Carlo Simulation to model potential future returns of 
 
 ---
 
-## 🧠 Methodology (High-Level)
+**Methodology**
 
 1. Load portfolio data from Excel files
 2. Define simulation parameters:
